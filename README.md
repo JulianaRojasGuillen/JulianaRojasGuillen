@@ -1,5 +1,5 @@
 ### Hello! I'm Juliana 👋
 
-I'm a Industrial Engineer and passionate about software development and data analysis. :revolving_hearts:
+I'm a Industrial Engineer and passionate about data analysis. :revolving_hearts:
 
 
